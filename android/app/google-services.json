@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001587530869",
+    "project_id": "e-com-placement",
+    "storage_bucket": "e-com-placement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001587530869:android:e9cf2d273176e09fc2ec3c",
+        "android_client_info": {
+          "package_name": "com.example.new_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7mHMKztXARwfCeXUaS9nJ2P7XTWj-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001587530869:android:103d4b84b0a82f5ac2ec3c",
+        "android_client_info": {
+          "package_name": "com.example.om_e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7mHMKztXARwfCeXUaS9nJ2P7XTWj-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
