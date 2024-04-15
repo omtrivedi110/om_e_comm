@@ -1,1 +1,3 @@
-<b align="center">In this project I have added all the functionalities but its UI is still in progress.</b>
+<div style="text-align:center;">
+  <b>I have added all the functionalities in this project but its UI is still under progress...</b>
+</div>
